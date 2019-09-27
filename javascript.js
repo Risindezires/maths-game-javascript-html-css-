@@ -18,7 +18,7 @@
 //show correct box for 1 sec
 //generate new Q and A
 //if the ans is wrong
-//show try agagin box for 1 sec
+//show try agagin box for 1 second
 var CorrectAnswer;
 var action;
 var timeremaining;
